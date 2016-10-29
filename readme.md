@@ -9,7 +9,7 @@ You can buy the game at [Steam (all-ages)](http://store.steampowered.com/app/366
 ## Installation
 
 ##### On Windows:
- 1. [Download the patch installer here](https://github.com/ItaloKnox/myth/releases/latest).
+ 1. [Download the patch installer here](https://github.com/ItaloKnox/myth/releases/latest)
  2. Install it inside your MYTH Steam folder (see the [FAQ](https://github.com/ItaloKnox/myth#faq) below if you don't know how to find it)
 
 ##### On Linux or OSX:
