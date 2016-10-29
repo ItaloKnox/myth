@@ -38,4 +38,5 @@ MYTH is a very slow game and the amount of +18 are fairly small.
 # Credits
 
 **ffleader1** - For providing me all the files needed to patch the game.
+
 Thanks for sticking around since the early Imouto Works days!
