@@ -2,11 +2,11 @@
 
 This patch restores the content of MYST, available on Steam.
 
-# Buy the game
+## Buy the game
 
 You can buy the game at [Steam (all-ages)](http://store.steampowered.com/app/366380/), and [MangaGamer (+18)](http://www.mangagamer.com/detail.php?aflg=18over&product_code=195&af=5a1240455db09f0c4b161057e809ea0c).
 
-# Installation
+## Installation
 
 ##### On Windows:
  1. [Download the patch installer here](https://github.com/ItaloKnox/myth/releases/latest).
@@ -16,7 +16,7 @@ You can buy the game at [Steam (all-ages)](http://store.steampowered.com/app/366
  1. [Download the manual patch here](https://github.com/ItaloKnox/myth/archive/master.zip)
  2. Extract the file ``a.rpa`` inside ``.../SteamApps/common/MYTH/game``
 
-# FAQ
+## FAQ
 
 > How do I know if my game is properly patched?
 
@@ -35,7 +35,7 @@ See the section ["On Linux or OSX"](https://github.com/ItaloKnox/myth#on-linux-o
 
 MYTH is a very slow game and the amount of +18 are fairly small.
 
-# Credits
+## Credits
 
 **ffleader1** - For providing me all the files needed to patch the game.
 
