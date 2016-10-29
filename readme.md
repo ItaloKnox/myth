@@ -1,6 +1,6 @@
 # MYTH Uncensor Patch for Steam
 
-This patch restores the content of MYST, available on Steam.
+This patch restores the content of MYTH, available on Steam.
 
 ## Buy the game
 
