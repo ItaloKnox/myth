@@ -1,4 +1,4 @@
-# MYTH Uncensor Patch for Steam
+> Due to a hardcoded feature in the game, the +18 resources won't load if you launch the game through Steam. Launching the game through the ``.exe`` will load the patch properly. I'm currently looking for a way of solving this issue.
 
 This patch restores the content of MYTH, available on Steam.
 
