@@ -9,12 +9,12 @@ You can buy the game at [Steam (all-ages)](http://store.steampowered.com/app/366
 ## Installation
 
 ##### On Windows:
- 1. [Download the patch installer here](https://github.com/ItaloKnox/myth/releases/latest)
- 2. Install it inside your MYTH Steam folder (see the [FAQ](https://github.com/ItaloKnox/myth#faq) below if you don't know how to find it)
+ 1. [Download the patch here](https://github.com/ItaloKnox/myth/releases/latest)
+ 2. Extract the file ``a.rpa`` and ``scenario.rpa`` inside ``.../SteamApps/common/MYTH/game``
 
 ##### On Linux or OSX:
- 1. [Download the manual patch here](https://github.com/ItaloKnox/myth/archive/master.zip)
- 2. Extract the file ``a.rpa`` inside ``.../SteamApps/common/MYTH/game``
+ 1. [Download the patch here](https://github.com/ItaloKnox/myth/releases/latest)
+ 2. Extract the file ``a.rpa`` and ``scenario.rpa`` inside ``.../SteamApps/common/MYTH/game``
 
 ## FAQ
 
@@ -37,6 +37,6 @@ MYTH is a very slow game and the amount of +18 are fairly small.
 
 ## Credits
 
-**ffleader1** - For providing me all the files needed to patch the game.
+**ffleader1** - For providing me all the files needed to patch the game and for patching the protection.
 
 Thanks for sticking around since the early Imouto Works days!
