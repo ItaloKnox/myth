@@ -9,11 +9,11 @@ You can buy the game at [Steam (all-ages)](http://store.steampowered.com/app/366
 ## Installation
 
 ##### On Windows:
- 1. [Download the patch here](https://github.com/ItaloKnox/myth/releases/latest)
+ 1. [Download the master patch here](https://github.com/ItaloKnox/myth/archive/master.zip)
  2. Extract the file ``a.rpa`` and ``scenario.rpa`` inside ``.../SteamApps/common/MYTH/game``
 
 ##### On Linux or OSX:
- 1. [Download the patch here](https://github.com/ItaloKnox/myth/releases/latest)
+ 1. [Download the master patch here](https://github.com/ItaloKnox/myth/archive/master.zip)
  2. Extract the file ``a.rpa`` and ``scenario.rpa`` inside ``.../SteamApps/common/MYTH/game``
 
 ## FAQ
